@@ -6,7 +6,9 @@ title: Registration
 
 ## Listeners registration
 
-To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://forms.gle/yxxenueXJX65SZEb6){:target="_blank"}.
+The registration rules will be published soon.
+
+<!---To take part in the conference as a listener you need to fill the [**REGISTRATION FORM**](https://forms.gle/yxxenueXJX65SZEb6){:target="_blank"}.
 
 Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a_en.pdf){:target="_blank"}.
 
@@ -30,3 +32,4 @@ The type of the presentation should be put after **Keywords** in the abstract.
 ## Registration on Demo session
 
 To apply to the **Demo session** you should send the description of your project to the organization team by <mailto:mr@itmo.ru>. The materials should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
+-->
