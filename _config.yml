@@ -1,12 +1,12 @@
 ##The website title
-name: MICSECS-2019
+name: MICSECS-2021
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
 highlighter: pygments
 
 ##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: #/MICSECS-2018
+base_url: #/MICSECS-2020
 sass:
   sass_dir: _sass
   style: :compressed
@@ -14,7 +14,7 @@ sass:
 #paginate_path: "page:num"
 
 ##The website description (to be used in meta tags)
-description: The 11th Majorov International Conference on Software Engineering and Computer Systems (MICSECS-2019)
+description: The 13th Majorov International Conference on Software Engineering and Computer Systems (MICSECS-2021)
 ##Some frequently used keywords on your website
 keywords: conf, MICSECS, CS, CPS, computer, software, hardware
 
