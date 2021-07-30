@@ -3,14 +3,13 @@ layout: page
 title: Home
 ---
 
-## Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems
+## Proceedings of the 12th Majorov International Conference on Software Engineering and Computer Systems
 
-"**Proceedings of the XI Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](https://yadi.sk/i/oxgngpMBn1LgUw)
+## CEUR Workshop Proceedings of MICSECS-2020
 
-## CEUR Workshop Proceedings of MICSECS-2019
+The "**CEUR Workshop Proceedings**" of the "**The 12th Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](http://ceur-ws.org/Vol-2893/)
 
-The "**CEUR Workshop Proceedings**" of the "**The 11th Majorov International Conference on Software Engineering and Computer Systems**" was published: [**jump to the proceedings**](http://ceur-ws.org/Vol-2590/)
-
+<!---
 ## Publication
 
 Dear authors!
@@ -36,13 +35,14 @@ All applications were reviewed by an international program committee of 58 scien
 The detailed program is available by this link: [**download program**]({{ site.base_url }}/media/MICSECS-2019-program.pdf){:target="_blank"}.
 
 ## About 
+-->
 
 <!-- <div >
       <img src="{{ site.base_url }}/img/itmo.jpeg">
 </div> -->
 
 <br>
-[ITMO University](http://en.itmo.ru/en/){:target="_blank"} kindly invites international researches to the 11th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**).
+[ITMO University](http://en.itmo.ru/en/){:target="_blank"} kindly invites international researches to the 13th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**).
 
 The conference is named after an outstanding scientist Sergei Majorov. He was the head of the Computer Engineering Department (1962 - 1986) and vice-chancellor for research at ITMO University (since 1962 to 1977). Sergei Majorov was founder of the scientific and pedagogical school  "Organization of computing systems and networks" and created the computational center at ITMO University and the department of automated information systems of the higher school. He tirelessly worked on improving all forms of the educational process and sought to bring innovations in Computer Science.
 
@@ -53,8 +53,9 @@ The conference includes:
 * Key notes presentaion
 * Oral presentations
 * Poster presentations
-* Demo session
+* Students Forum
 
+<!---
 ## Sponsors
 
 <div >
@@ -65,6 +66,7 @@ The conference includes:
             <img style="height:100px; margin-left:20px;" src="{{ site.base_url }}/img/crt.png">
       </a>
 </div>
+-->
 
 ## Research Tracks
 
