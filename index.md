@@ -115,7 +115,7 @@ The research track welcomes novel papers addressing theoretical, applied, and em
 * Personal device networks. Ensuring security in such networks
 * Expert systems. Multi-agent systems. Development and implementation
 * Artificial Intelligent & machine learning
-* * Artificial intelligence in the economic and social spheres
+* Artificial intelligence in the economic and social spheres
 
 Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the conference.
 
