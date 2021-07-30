@@ -18,7 +18,7 @@ The authors, who have made the **full presentation** on the conference, are invi
 
 Conference proceedings will be submitted for publishing in [**CEUR-WS series**](http://ceur-ws.org){:target="_blank"}.
 
-The strict deadline for upload a camera ready version of authors papers is **30 January 2019**.
+The strict deadline for upload a camera ready version of authors papers is **30 January 2022**.
 
 ## Instructions for the work-in-progress presentation authors
 
