@@ -10,6 +10,8 @@ The detailed program is available by this link: [**download program**]({{ site.b
 * **Dates of the hackathon:** 21-23 December, 2018.
 * **City:** Saint Petersburg, Russia.
 * **Place:** ITMO University, Kronverkskiy pr., 49.
+
+<!---
 * **Rooms:** 285, 365, 371, 372, 375, 466.
 
 **The language of the participant presentations:** Russian.
@@ -139,4 +141,5 @@ The detailed program is available by this link: [**download program**]({{ site.b
     </tr>
 </table>
 
+-->
 
