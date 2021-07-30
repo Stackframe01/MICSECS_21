@@ -21,7 +21,6 @@ All deadlines are for the Moscow time zone, 23:59.
 
 * **The begin of the participant registration**: 1 September 2021
 * **Abstract submission**: 1 October 2021 <!--- <s>1 October 2021</s> <b style="color: red;">10 November 2019</b>-->
-<!---* **Demo project submission**: 24 November 2019-->
 * **Conference program publication**: 24 November 2021
 * **Author notification**: 20 November 2021
 * **Camera ready paper submission**: 10 January 2022
