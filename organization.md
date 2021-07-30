@@ -8,7 +8,7 @@ title: Organization
 
 **Program Chair**: Dmitry Mouromtsev, ITMO University, Russia
 
-**Proceeding Сhair**: Olga Parkhimovich, ITMO University, Russia
+**Proceeding Сhair**: Elena Boldyreva, ITMO University, Russia
 
 ## Local organization team
 
@@ -20,12 +20,10 @@ title: Organization
 | Ivan Loginov         | ITMO University | Russia |
 | Sergei Bikovskii     | ITMO University | Russia |
 | Vladislav Shmatkov   | ITMO University | Russia |
-| Ivan Shilin          | ITMO University | Russia |
 | Yuriy	Korenkov       | ITMO University | Russia |
-| Marina Kudriavtceva  | ITMO University | Russia |
 | Rezeda Khaydarova    | ITMO University | Russia |
-| Assel Romanova       | ITMO University | Russia |
 
+<!--
 ## Program committee
 
 | Name          | Company       | Country |
@@ -85,5 +83,5 @@ title: Organization
 | Dmitry Makhlai        | ITMO University | Russia |
 | Lidia	Korpan          | ITMO University | Russia |
 | Polina Belimova       | ITMO University | Russia |
-
+-->
 
