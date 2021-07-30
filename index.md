@@ -72,52 +72,47 @@ The conference includes:
 
 The research track welcomes novel papers addressing theoretical, applied, and empirical aspects of research. Topics of interest include but are not limited to:
 
-### **Computer Systems and Networks**
+### **Cloud and Distributed Computing. Internet of Things**
 
 * High-Performance Computing
 * Computer Networks and Telecommunication
-* Domain specific modelling and metamodelling
 * Cloud Computing
 * Virtualization
+* Storage and processing of ultra-large data arrays in the clouds
 * Multi-core programming
 * Computer Network Security
-* Cryptography and Cryptanalysis
-* Digital Forensics and Cybercrime Investigation
 * Information Security and Privacy
+* Technologies and systems of IoT and Industrial 4.0.
 
-### **Cyber-Physical Systems**
+### **System and Software Engineering**
 
-* Embedded Systems
-* Computer Aided Design
-* High-level synthesis
-* Modelling and Co-simulation
-* Robotics
-* Internet of Things
-* Ubiquitous computing
-
-### **Software Engineering**
-
-* Programm languages
-* Compilers
-* Artificial Intelligent & machine learning
+* Methods and practices of system engineering, including cyber-physical systems
+* Tools and experience in automation of requirements engineering, system architecture engineering, test engineering
+* Teaching of system engineering and systems thinking
+* Methods, technologies and tools for automating the software life cycle of automated systems. Features of development and maintenance of application classes
+* Automated testing during the development, maintenance and development of the system
+* Programm languages, compilers
 * Ontology Models and Semantic Web
 * Algorithms and Optimization
 
-### **Computer graphics and multimedia**
-
-* Computer vision
-* Image processing and watermarking
-* Audio and video processing
-* Motion and tracking
-* Pattern Recognition
-* Real-time computer graphics
-* Physically correct rendering
-* Artificial intelligence in computer graphics
-
 ### **AR/VR/MR technologies**
+
 * Augmented, virtual and mixed reality systems
 * Human Computer Interaction
 * Human Computer Interfaces
+* Computer vision
+* Mathematical, software and hardware tools of virtual and augmented reality
+* Image processing and watermarking
+* Audio and video processing
+
+### **Internet of Behavior. Machine learning and data mining. (BIG DATA, Data Science, Business Analytics)**
+
+* Technologies and systems of Big Data, Data Science, Business Intelligence
+* Methods of collecting “digital dust”
+* Personal device networks. Ensuring security in such networks
+* Expert systems. Multi-agent systems. Development and implementation
+* Artificial Intelligent & machine learning
+* * Artificial intelligence in the economic and social spheres
 
 Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the conference.
 
@@ -125,4 +120,4 @@ Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more a
 
 * The chance to discuss your scientific results with experienced audience
 * The proceedings will be published in CEUR with selectable **DBLP** and **Scopus** indexing
-* The best poster presentation will be awarded
+
