@@ -2,6 +2,15 @@
 layout: page
 title: Previous Conferences
 ---
+## MICSECS-2020
+
+**Conference statistics**
+
+* Submissions: 
+* Accepted submissions: 
+* Acceptance rate: 
+* Participants: 
+
 
 ## MICSECS-2019
 
