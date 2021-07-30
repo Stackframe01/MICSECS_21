@@ -4,14 +4,14 @@ title: Call For Papers
 ---
 # Call For Papers
 
-The Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2019**) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engineering, Networks, Cyber-Physical Systems, Computer Security,  Multimedia technologies and AR/VR/MR technologies.
+The Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2021**) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engineering, Networks, Cyber-Physical Systems, Computer Security,  Multimedia technologies and AR/VR/MR technologies.
 
 The conference gives a possibility to under- and post-graduate students to exchange their experience and results in perspective areas of research and development of Computer Systems.
 
 ## Submission
 
 All authors will be required to pre-submit abstracts of their papers. All submissions will be carefully reviewed by the program committee.
-**The acceptance rate** in the 2018 year was [0.73]({{ site.base_url }}/prev_conf.html).
+**The acceptance rate** in the 2020 year was [0.73]({{ site.base_url }}/prev_conf.html).
 
 Please refer to [Registration]({{ site.base_url }}/registration.html) to learn more about the registration procedure and the requirements.
 
@@ -19,12 +19,12 @@ Please refer to [Registration]({{ site.base_url }}/registration.html) to learn m
 
 All deadlines are for the Moscow time zone, 23:59.
 
-* **The begin of the participant registration**: 1 October 2019
-* **Abstract submission**: <s>3 November 2019</s> <b style="color: red;">10 November 2019</b>
-* **Demo project submission**: 24 November 2019
-* **Conference program publication**: 5 December 2019
-* **Author notification**: 2 December 2019
-* **Camera ready paper submission**: 30 January 2020
+* **The begin of the participant registration**: 1 September 2021
+* **Abstract submission**: <s>1 October 2021</s> <!---<b style="color: red;">10 November 2019</b>-->
+<!---* **Demo project submission**: 24 November 2019-->
+* **Conference program publication**: 24 November 2021
+* **Author notification**: 20 November 2021
+* **Camera ready paper submission**: 30 January 2022
 
 ## Proceedings
 
@@ -59,7 +59,7 @@ The research track welcomes novel papers addressing theoretical, applied, and em
 * Internet of Things
 * Ubiquitous computing
 
-### **Software Engineering**
+### **System and Software Engineering**
 
 * Programm languages
 * Compilers
@@ -85,7 +85,7 @@ The research track welcomes novel papers addressing theoretical, applied, and em
 
 ## Poster presentations and Demo
 
-In addition to oral paper presentations **MICSECS 2019** encourages poster presentation with Demo session. Demo session is dedicated to demonstrate how the results of participant researchers work. Beside posters the participants should present their executable models, devices and etc., which they have obtained during their work.
+In addition to oral paper presentations **MICSECS 2021** encourages poster presentation with Demo session. Demo session is dedicated to demonstrate how the results of participant researchers work. Beside posters the participants should present their executable models, devices and etc., which they have obtained during their work.
 
 Posters & Demos form an opportunity to informally present your research approach at the conference. It is great for discussing your research in free form with all attendants of the session. Lots of people will be stopping by your poster and you will have a chance to talk to them, explain what you are doing, and get feedback. Of course, the number of people who will stop depends on how well you design your poster!
 
