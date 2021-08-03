@@ -5,6 +5,15 @@ image.
 See a preview of the Massively Jekyll Theme here: [https://iwiedenm.github.io/jekyll-theme-massively/](https://iwiedenm.github.io/jekyll-theme-massively/). <br>
 Massively was originally designed by HTML5UP and Jekyll was integrated by [JekyllUp: Jekyll Themes](https://jekyllup.com)
 
+## Check on localhost
+
+1. You need install `bundle` (https://bundler.io).
+2. `bundle config set --local path 'vendor/bundle'`
+3. `bundle install`
+4. `bundle exec jekyll serve`
+5. `open http://127.0.0.1:4000`
+
+
 ## How to Use This Theme
 Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
 in the site source. This port is of the second type. Concretely, it means that you
